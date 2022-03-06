@@ -1,5 +1,6 @@
 # RDR2 Pointing
-This script includes functionality for RedM servers which allows players to point similar to how you would in GTA V
+This script includes functionality for RedM servers which allows players to point similar to how you would in GTA V.
+Feel free to make PR's if you have any improvements that you'd like to share!
 ## Content
 - Press B to toggle pointing
 ## Known Issues
